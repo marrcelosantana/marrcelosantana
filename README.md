@@ -1,4 +1,29 @@
-### Hi there 👋
+### Hi there 👋 I'm Marcelo
+
+<img  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  min-width="400px"  max-width="400px"  width="400px"  align="right"  alt="Computador marcelo">
+  
+
+- :mortar_board: Studying Information System at Universidade Federal do Ceará.
+
+- 🥰 I am passionate about front-end technology.
+
+  
+
+🧠 Skills: I'm learning about <strong>Javascript, HTML, CSS, React, ReactNative, Typescript, SQL, Node and Next.js </strong>
+
+  
+  
+
+:briefcase: Tools: Linux, Visual Studio Code, GitHub and Isomnia.
+
+  
+  
+
+### How to reach me:
+
+  
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-1781EB?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1781EB)](https://www.linkedin.com/in/marcelo-santana-0bab88208/) [![Hotmail Badge](https://img.shields.io/badge/Outlook-1781EB?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=1781EB)](mailto:marcelo_santana_2@hotmail.com)
 
 <!--
 **marrcelosantana/marrcelosantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
