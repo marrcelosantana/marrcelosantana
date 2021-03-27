@@ -1,6 +1,4 @@
 ### Hi there 👋 I'm Marcelo
-
-<img  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  min-width="400px"  max-width="400px"  width="400px"  align="right"  alt="Computador marcelo">
   
 
 - :mortar_board: Studying Information System at Universidade Federal do Ceará.
