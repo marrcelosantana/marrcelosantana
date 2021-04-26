@@ -1,9 +1,11 @@
 ### Hi there 👋 I'm Marcelo
+
+<img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
   
 
 - :mortar_board: Studying Information System at Universidade Federal do Ceará.
 
-- 🥰 I am passionate about front-end technology.
+- 🥰 I'm Front-end Developer.
 
   
 
