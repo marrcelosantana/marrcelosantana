@@ -5,7 +5,7 @@
 
 - :mortar_board: Studying Information System at Universidade Federal do Ceará.
 
-- 🥰 I'm Front-end Developer.
+- :computer: I'm Front-end Developer.
 
   
 
