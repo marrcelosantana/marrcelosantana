@@ -9,7 +9,7 @@
 
   
 
-🧠 Skills: I'm learning about <strong>Javascript, HTML, CSS, React, ReactNative, Typescript, SQL, Angular and Next.js </strong>
+🧠 Skills: I'm learning about <strong>Javascript, HTML, CSS, React,Typescript, SQL, Angular and Next.js </strong>
 
   
   
