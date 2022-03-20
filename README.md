@@ -3,7 +3,7 @@
 <img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
   
 
-- :mortar_board: Studying Information System at Universidade Federal do Ceará.
+- :mortar_board: Studying Information System at Federal University of Ceará.
 
 - :computer: I'm Front-End Developer.
 
