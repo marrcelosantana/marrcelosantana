@@ -23,7 +23,7 @@
 
   
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-1781EB?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1781EB)](https://www.linkedin.com/in/marcelo-santana-0bab88208/) [![Hotmail Badge](https://img.shields.io/badge/Outlook-1781EB?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=1781EB)](mailto:marcelo_santana_2@hotmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/marrcelosantana/)](https://www.instagram.com/marrcelosantana/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-1781EB?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1781EB)](https://www.linkedin.com/in/marcelo-santana-0bab88208/) [![Hotmail Badge](https://img.shields.io/badge/Outlook-1781EB?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=1781EB)](mailto:marcelo_santana_2@hotmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-FD0d55?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/marrcelosantana/)](https://www.instagram.com/marrcelosantana/)
 
 <!--
 **marrcelosantana/marrcelosantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
