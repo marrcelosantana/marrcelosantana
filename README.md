@@ -9,15 +9,17 @@
 
   
 
-🧠 Skills: I'm learning about <strong>Javascript, HTML, CSS, React,Typescript, SQL, Angular and Next.js </strong>
+🧠 Skills: I'm learning about <strong>Javascript, HTML, CSS, React, React-Native, Typescript, SQL, Angular and Next.js </strong>
 
   
   
 
 :briefcase: Tools: Linux, Visual Studio Code, GitHub and Isomnia.
 
-  
-  
+<br>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=marrcelosantana&show_icons=true&theme=radical&locale=en&layout=compact" alt="marrcelosantana" /></p>
+
 
 ### How to reach me:
 
