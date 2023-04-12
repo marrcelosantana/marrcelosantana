@@ -10,7 +10,7 @@
 
   
 
-🧠 Skills: I'm learning about <strong>Javascript, HTML, CSS, React, React-Native, Typescript, SQL, Angular and Next.js </strong>
+🧠 Skills: I'm learning about <strong>Javascript, HTML, CSS, Javascript, React, React-Native, Typescript, Angular, Next.js, Node, SQL, Postgres, and Docker. </strong>
 
   
 :briefcase: Tools: Linux, Visual Studio Code, GitHub and Isomnia.
