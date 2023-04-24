@@ -6,7 +6,7 @@
 
 - :mortar_board: Studying Information System at Federal University of Ceará.
 
-- :computer: I'm Front-End Developer.
+- :computer: I'm Front-End and Mobile Developer.
 
   
 
