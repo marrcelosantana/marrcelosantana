@@ -4,7 +4,7 @@
 
 <!--<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=marrcelosantana&show_icons=true&theme=radical&locale=en&layout=compact" alt="marrcelosantana" /></p>-->
 
-- :mortar_board: Studying Information System at Federal University of Ceará.
+- :mortar_board: Bachelor of Information Systems from the Federal University of Ceará.
 
 - :computer: I'm Front-End and Mobile Developer.
 
