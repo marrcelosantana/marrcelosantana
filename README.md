@@ -10,7 +10,7 @@
 
   
 
-🧠 Skills: I'm learning about <strong>Javascript, HTML, CSS, Javascript, React, React-Native, Typescript, Angular, Next.js, Node, SQL, Postgres, and Docker. </strong>
+🧠 Skills: <strong>Javascript, HTML, CSS, Javascript, React, React-Native, Typescript, Angular, Next.js, Node, SQL, Postgres, and Docker. </strong>
 
 
 ### How to reach me:
